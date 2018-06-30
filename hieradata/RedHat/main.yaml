@@ -1,0 +1,14 @@
+---
+ssh_service_name: 'sshd'
+ssh_package_name: 'sshd'
+sshd_port: 22
+sshd_protocol: 2
+apache_port: 82
+apache_package_name: 'httpd'
+apache_service_name: 'httd'
+mysql_package_name: 'mysql'
+mysql_service_name: 'mysqld'
+php_package_name: 'php'
+php_service_name: 'php'
+munin_package_name: 'munin'
+munin_service_name: 'munin-node'
